@@ -1,0 +1,11 @@
+/Users/colegruninger/Stokes_solver/CMakeFiles/Stokes_Solver.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/run.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/sign.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/debug.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/release.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/runclean.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/distclean.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/strip_comments.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/info.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/edit_cache.dir
+/Users/colegruninger/Stokes_solver/CMakeFiles/rebuild_cache.dir
